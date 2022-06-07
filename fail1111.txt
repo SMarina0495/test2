@@ -1,3 +1,7 @@
 33333333333333333
 44455566677888798.
+<<<<<<< HEAD
 "new branch line" 
+=======
+new branch line 
+>>>>>>> new_branch
